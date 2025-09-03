@@ -35,5 +35,16 @@ A lightweight, brush-based robotic system to clean solar panels using a dry or w
 - Efficient energy recovery post-cleaning.
 - Scalable solution for large solar farms.
 
-# Documentation: 
+# Documentation
 Research paper: https://www.tijer.org/tijer/papers/TIJER2305338.pdf
+
+# Future Improvements
+- Make the system automatic.
+- Cloud-based cleaning scheduler.
+- Real-time fault alerts and LORA integration.
+
+# Team Members 
+- FNU Ashwine
+- Subhash NR
+- Sreelatha KS
+- Krishna Mohan VSS (Guide) 
