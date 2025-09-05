@@ -47,4 +47,4 @@ Research paper: https://www.tijer.org/tijer/papers/TIJER2305338.pdf
 - FNU Ashwine
 - Subhash NR
 - Sreelatha KS
-- Krishna Mohan VSS (Guide) 
+- Prof. Krishna Mohan VSS (Guide) 
